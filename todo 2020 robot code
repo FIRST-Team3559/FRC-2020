@@ -1,0 +1,7 @@
+=todo list
+-camera feed on shuffleboard
+   -second camera feed on shuffleboard
+   -switch camera focus feature to stream only one camera at a time
+-incorporate PID on drive motors
+   -add Velocity control mode to PID tune
+-share robot info to shuffleboard
